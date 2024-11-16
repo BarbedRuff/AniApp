@@ -3,6 +3,8 @@ local.properties
 # Log/OS Files
 *.log
 
+.gradle/
+
 # Android Studio generated files and folders
 captures/
 .externalNativeBuild/
